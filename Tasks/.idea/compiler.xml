@@ -15,6 +15,7 @@
         <module name="Rest-Template" />
         <module name="Learn-Mapping (1)" />
         <module name="crudoperation" />
+        <module name="Springboot-Security" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +28,7 @@
       <module name="Learn-Mapping (1)" options="-parameters" />
       <module name="Learn-Mapping (2)" options="-parameters" />
       <module name="Rest-Template" options="-parameters" />
+      <module name="Springboot-Security" options="-parameters" />
       <module name="crudoperation" options="-parameters" />
       <module name="has_a_relation" options="-parameters" />
       <module name="has_a_relation2" options="-parameters" />
