@@ -12,7 +12,7 @@ import javax.persistence.*;
 @ApiModel(description = "Details about the Entity Class - 'Employee'")
 public class Employee {
     @Id
-    @Column(name = "e_id")
+    @Column(name = "emp_id")
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @ApiModelProperty(notes = "The UNIQUE ID of the contact")
     private  long id;
