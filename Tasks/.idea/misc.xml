@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/crudoperation/pom.xml" />
+        <option value="$PROJECT_DIR$/springrest/pom.xml" />
+        <option value="$PROJECT_DIR$/pagination/pom.xml" />
+        <option value="$USER_HOME$/Downloads/has_a_relation/has_a_relation/pom.xml" />
+        <option value="$PROJECT_DIR$/has_a_relation/pom.xml" />
+        <option value="$PROJECT_DIR$/has_a_relation2/pom.xml" />
+        <option value="$PROJECT_DIR$/has_a_relation3/pom.xml" />
+        <option value="$PROJECT_DIR$/Learn-Mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/Rest-Template/pom.xml" />
+        <option value="$PROJECT_DIR$/Learn-Mapping2/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$USER_HOME$/Downloads/has_a_relation/has_a_relation/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
