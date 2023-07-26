@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="pagination" />
+        <module name="Spring-Security-JPA" />
         <module name="has_a_relation" />
         <module name="springrest" />
         <module name="has_a_relation2" />
@@ -28,6 +29,7 @@
       <module name="Learn-Mapping (1)" options="-parameters" />
       <module name="Learn-Mapping (2)" options="-parameters" />
       <module name="Rest-Template" options="-parameters" />
+      <module name="Spring-Security-JPA" options="-parameters" />
       <module name="Springboot-Security" options="-parameters" />
       <module name="crudoperation" options="-parameters" />
       <module name="has_a_relation" options="-parameters" />

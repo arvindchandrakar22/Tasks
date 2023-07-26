@@ -1,13 +1,16 @@
-package io.spring.SpringSecurityJPA;
+package io.spring.security;
 
+import io.spring.security.model.UserRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
+@EnableJpaRepositories(basePackageClasses = UserRepository.class )
 public class SpringSecurityJpaApplication {
-
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityJpaApplication.class, args);
+		System.out.println("'SpringSecurityJpa' Application Started !!");
 	}
 
 }
