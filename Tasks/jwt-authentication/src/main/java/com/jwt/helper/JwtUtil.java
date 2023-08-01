@@ -11,12 +11,14 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
-/**/
-
-//methods - for generating token
-//validate
-//isExp
-//util class for jwt
+/*
+This Class contains ->
+* Methods that is used for generating token
+* Its has Methods that validates TOKEN
+* & also contains the Method that checks whether the TOKEN isExpired or not.
+*
+* SO BASICALLY THIS IS A UTIL CLASS FOR JWT
+*/
 @Component
 public class JwtUtil {
     private static final long serialVersionUID = -2550185165626007488L;
