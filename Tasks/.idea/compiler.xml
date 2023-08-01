@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="jwt-authentication" />
         <module name="pagination" />
         <module name="Spring-Security-JPA" />
         <module name="has_a_relation" />
@@ -34,6 +35,7 @@
       <module name="crudoperation" options="-parameters" />
       <module name="has_a_relation" options="-parameters" />
       <module name="has_a_relation2" options="-parameters" />
+      <module name="jwt-authentication" options="-parameters" />
       <module name="pagination" options="-parameters" />
       <module name="springrest" options="-parameters" />
     </option>
