@@ -6,7 +6,8 @@
 trigger:
 - main
 
-pool:ArvindPC
+pool:
+name: ArvindPC
   vmImage:ubuntu-latest
 
 steps:
