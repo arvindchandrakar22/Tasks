@@ -45,7 +45,6 @@ class Book {
 
         list.forEach((n)->{
             System.out.println(n);
-            System.out.println("HELLO !!!");
         });
     }
 }
